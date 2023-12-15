@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi everyone👋
 
 <!--
-**kvnmits/kvnmits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master I student in data and artificial intelligence project management, with a passion for IT development and data processing.I would like to progress in this field in order to increase my skills.
+My main skills include my ability to adapt and my rigour in the face of change.
 
-Here are some ideas to get you started:
+##Projects
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Courses
+
+
+
+## Contacts
+ You can contact me at: kvbmitamona@gmail.com

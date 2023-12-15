@@ -27,5 +27,5 @@ My main skills include my ability to adapt and my rigour in the face of change.
 
 
 
-## Contacts
- You can contact me at: kvnmitamona@gmail.com
+## Contacts:
+You can contact me at: kvnmitamona@gmail.com

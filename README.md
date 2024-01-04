@@ -9,7 +9,7 @@ My main skills include my ability to adapt and my rigour in the face of change.
 
 This project is a R Shiny application developed to analyse crime data 2020. 
 
-This study identifies early prognostic factors upon admission to optimize the management of COVID-19 patients hospitalized in medical wards.
+This study identifies tendances, categories of persons most impacted by the criminality and places were it happened.
 
 ## Getting Started
 

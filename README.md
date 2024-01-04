@@ -5,9 +5,7 @@ I'm a Master I student in data and artificial intelligence project management, w
 I would like to progress in this field in order to increase my skills.
 My main skills include my ability to adapt and my rigour in the face of change.
 
-## Rshiny web app project
-
-## About the Project
+## About  Rshiny web app the Project
 
 This project is a R Shiny application developed to analyse crime data 2020. 
 

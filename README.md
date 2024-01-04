@@ -46,7 +46,7 @@ Run the application locally by opening the `App.R` file in RStudio and clicking 
 ## Data
 
 The application uses the crime data that your can find here:
--[Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
+[Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
 
 ## Contact
  

@@ -28,7 +28,10 @@ This study identifies early prognostic factors upon admission to optimize the ma
 2. Open the project in RStudio and install the required packages:
    ```R
    install.packages("shiny")
-   # Add any other packages you need here
+   install.package("dlpyr")
+   install.packages("tidyverse")
+   install.packages("leaflet")
+   install.packages("shinydashboard")
    ```
 
 ## Usage
